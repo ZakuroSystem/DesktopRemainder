@@ -1,0 +1,34 @@
+# Visual Studio
+.vs/
+*.VC.db
+*.VC.opendb
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build outputs
+bin/
+[Bb]uild/
+[xX]64/
+[xX]86/
+Debug/
+Release/
+DesktopReminder/*.obj
+DesktopReminder/*.pch
+DesktopReminder/*.idb
+DesktopReminder/*.pdb
+DesktopReminder/*.ilk
+DesktopReminder/*.log
+DesktopReminder/*.tlog/
+DesktopReminder/*.lastbuildstate
+DesktopReminder/*.recipe
+DesktopReminder/*.ipch/
+
+# Generated files
+DesktopReminder/UpgradeLog*.XML
+DesktopReminder/*.aps
+
+# OS artifacts
+Thumbs.db
+.DS_Store
